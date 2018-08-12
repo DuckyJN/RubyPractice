@@ -28,6 +28,3 @@ class Doubly_Linked_List
         current = @@head
     end
 end
-
-hello = Node.new(3)
-puts hello.next?
